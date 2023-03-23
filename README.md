@@ -22,3 +22,8 @@ The only configuration the bot needs is for automatically sending daily weather 
 - [ ] Add integration for forecast air quality
 - [ ] Add integration for weather alerts
 - [ ] Add integration for bulk weather
+
+## Gallery
+![immagine_2023-03-17_003200177](https://user-images.githubusercontent.com/75610581/227281750-3845df5e-03dc-4ca8-802f-5814094bf748.png)
+![immagine_2023-03-17_003151342](https://user-images.githubusercontent.com/75610581/227281758-746dc829-5657-4a36-8ed1-5c25fcfec361.png)
+![immagine_2023-03-17_003141229](https://user-images.githubusercontent.com/75610581/227281763-c335cad5-07b2-4ac8-b2fb-386c51db33e3.png)
