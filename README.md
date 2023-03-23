@@ -7,7 +7,7 @@ WeatherX is a bot I made for general training with **APIs** and data manipulatio
 - Configuration of units of measure (metric or imperial).
 - Aesthetically appealing, used different emoji that change automatically based on weather conditions and based on the nationality of the city.
 
-## How it works.
+## How it works
 The only configuration the bot needs is for automatically sending daily weather forecasts. To configure the bot, just use the `/configure` command and follow the instructions. The configuration is totally interactive and simple. 
 
 ## Commands
@@ -15,7 +15,7 @@ The only configuration the bot needs is for automatically sending daily weather 
 - `/forecast <city> <units> <days>`: shows the weather forecast for the specified city. The `units` parameter can be `metric` or `imperial`, while the `days` parameter can be a number from 1 to 7.
 - `/weather <city> <units>`: shows the current weather conditions for the specified city. The `units` parameter can be `metric` or `imperial`.
 
-## ToDo.
+## ToDo
 - [ ] Add integration for historical weather
 - [ ] Add integration for marine conditions.
 - [ ] Add integration for atronomy
